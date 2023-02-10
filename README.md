@@ -7,5 +7,5 @@ Utilizando Bootstrap e FontAwesome Icons
 <div align="center">
 Acesse: https://lfalvespe.github.io/listacontatos
 <br><br>
-<img src="prints/listacontatos.png">
+<img src="prints/print.png">
 <div>
